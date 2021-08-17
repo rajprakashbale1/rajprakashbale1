@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kash
+- 👋 Hi, I’m Kash, currently an MSBA (Business Analytics) student at UC Davis
 - 👀 I’m interested in Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on NLP and Transformers & Computer Vision problems
 - 📫 How to reach me rajprakashbale1@gmail.com or https://www.linkedin.com/in/rajprakashbale/ (add a message with your request :))
